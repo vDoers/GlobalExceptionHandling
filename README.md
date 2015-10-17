@@ -23,3 +23,8 @@ Handing all unhandled exception globally.
  
 [Result Video](http://screencast.com/t/hVkhzzucnlw)
 
+>*Note: You can find exceptions record file in Device Storage | File Manager > Exception Folder > fatal.txt*
+
+
+
+
